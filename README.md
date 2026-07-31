@@ -63,7 +63,8 @@ My work focuses on creating practical AI products including intelligent assistan
 ### 🔬 AI Research Assistant
 Evidence-based research agent that searches the web, evaluates sources, and generates cited summaries.
 
-**Tech:** Python, FastAPI, Ollama, Gemini
+**Tech:** Python, FastAPI, Ollama, Gemini.
+
 **link:**  https://github.com/AmmarBinYasir489/ai-research-assistant
 
 ---
@@ -71,22 +72,28 @@ Evidence-based research agent that searches the web, evaluates sources, and gene
 ### 🥗 Nourish AI Nutrition Tracker
 AI nutrition assistant that analyzes meal images and creates reusable food templates.
 
-**Tech:** Next.js, Supabase, Gemini Vision
+**Tech:** Next.js, Supabase, Gemini Vision.
+
 **link:**  https://github.com/AmmarBinYasir489/calories-counter
+
 ---
 
 ### 💰 Expense AI
 AI-powered finance platform with natural language expense tracking and financial insights.
 
-**Tech:** Next.js, TypeScript, Supabase
+**Tech:** Next.js, TypeScript, Supabase.
+
 **link:**  https://github.com/AmmarBinYasir489/expense-ai
+
 ---
 
 ### 📚 Grounded Knowledge Workspace
 RAG-based AI workspace for querying private documents.
 
-**Tech:** TypeScript, RAG, AI Search
+**Tech:** TypeScript, RAG, AI Search.
+
 **link:**  https://github.com/AmmarBinYasir489/grounded-knowledge-workspace
+
 ---
 
 ## 📈 Currently Exploring
