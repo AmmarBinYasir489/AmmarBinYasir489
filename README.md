@@ -1,112 +1,105 @@
 # Hi, I'm Ammar Bin Yasir 👋
 
-## AI Engineer | Full-Stack Developer
+## AI Automation Engineer | AI Agents | n8n | Full-Stack AI
 
-I build production-ready AI applications using **LLMs, RAG systems, and modern web technologies**.
+I build **AI-powered systems and automated workflows** that reduce manual work, connect business tools, and turn repetitive processes into reliable operations.
 
-My work focuses on creating practical AI products including intelligent assistants, knowledge systems, finance platforms, and AI-powered productivity tools.
-
----
-
-## 🚀 What I Build
-
-🤖 **AI Agents & LLM Applications**
-- AI assistants
-- Research agents
-- Multi-model workflows
-- Automation systems
-
-🧠 **RAG & Knowledge Systems**
-- Document intelligence
-- Grounded AI responses
-- Enterprise search
-
-🌐 **Full-Stack Applications**
-- Next.js
-- React
-- TypeScript
-- FastAPI
-- Supabase
+My work combines AI engineering, workflow automation, API integration, and full-stack development—from understanding the process to building and deploying the complete solution.
 
 ---
 
-## 🛠 Tech Stack
+## What I Build
 
-**AI**
-- Gemini
-- Ollama
-- LLMs
-- RAG
-- Prompt Engineering
-- Multimodal AI
+### AI Agents & Intelligent Automation
 
-**Frontend**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+- AI agents and task-focused assistants
+- n8n workflows and business process automation
+- Customer support and internal operations automation
+- CRM, lead management, and data synchronization workflows
+- Multi-step AI pipelines with human approval points
+- API, webhook, and third-party service integrations
 
-**Backend**
-- Python
-- FastAPI
-- Node.js
+### Production AI Applications
 
-**Cloud & Database**
-- PostgreSQL
-- Supabase
-- Vercel
+- LLM-powered web applications
+- Research and productivity agents
+- Multimodal AI for images and documents
+- Document intelligence and information extraction
+- RAG and private knowledge assistants
+- Grounded responses, evaluation, and reliable AI workflows
 
----
+### Full-Stack Product Development
 
-## 📌 Featured Projects
-
-### 🔬 AI Research Assistant
-Evidence-based research agent that searches the web, evaluates sources, and generates cited summaries.
-
-**Tech:** Python, FastAPI, Ollama, Gemini.
-
-**link:**  https://github.com/AmmarBinYasir489/ai-research-assistant
+- Responsive applications with Next.js, React, and TypeScript
+- Python and FastAPI services
+- PostgreSQL and Supabase backends
+- Authentication, dashboards, analytics, and integrations
+- WordPress development and technical SEO support
 
 ---
 
-### 🥗 Nourish AI Nutrition Tracker
-AI nutrition assistant that analyzes meal images and creates reusable food templates.
+## How I Approach Automation
 
-**Tech:** Next.js, Supabase, Gemini Vision.
-
-**link:**  https://github.com/AmmarBinYasir489/calories-counter
-
----
-
-### 💰 Expense AI
-AI-powered finance platform with natural language expense tracking and financial insights.
-
-**Tech:** Next.js, TypeScript, Supabase.
-
-**link:**  https://github.com/AmmarBinYasir489/expense-ai
+1. **Map the workflow** — understand the manual steps, systems, decisions, and desired outcome.
+2. **Design the solution** — choose the right combination of automation, AI, APIs, and human oversight.
+3. **Build and integrate** — create a maintainable system that fits the existing business process.
+4. **Measure and improve** — refine reliability, speed, cost, and user experience using real results.
 
 ---
 
-### 📚 Grounded Knowledge Workspace
-RAG-based AI workspace for querying private documents.
+## Technology Stack
 
-**Tech:** TypeScript, RAG, AI Search.
-
-**link:**  https://github.com/AmmarBinYasir489/grounded-knowledge-workspace
-
----
-
-## 📈 Currently Exploring
-
-- AI Agents
-- RAG evaluation
-- Multimodal AI
-- Production LLM systems
+| Area | Technologies |
+| --- | --- |
+| **AI & LLMs** | OpenAI, Gemini, Ollama, LLMs, RAG, prompt engineering, multimodal AI |
+| **Automation** | n8n, webhooks, REST APIs, workflow orchestration, CRM integrations |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS |
+| **Backend** | Python, FastAPI, Node.js |
+| **Data & Cloud** | PostgreSQL, Supabase, Vercel |
+| **Web** | WordPress, responsive development, performance, technical SEO |
 
 ---
 
-## 🤝 Let's Connect
+## Featured Projects
 
-Interested in AI applications, LLM products, and open-source collaboration.
+### [AI Research Assistant](https://github.com/AmmarBinYasir489/ai-research-assistant)
 
-⭐ Explore my repositories below.
+An evidence-led research agent that discovers sources, evaluates information, and produces cited summaries.
+
+**Built with:** Python, FastAPI, Ollama, Gemini
+
+### [Nourish AI Nutrition Tracker](https://github.com/AmmarBinYasir489/calories-counter)
+
+A multimodal nutrition assistant that analyzes meal images and creates reusable food templates.
+
+**Built with:** Next.js, Supabase, Gemini Vision
+
+### [Expense AI](https://github.com/AmmarBinYasir489/expense-ai)
+
+An AI-powered finance platform for natural-language expense tracking and useful financial insights.
+
+**Built with:** Next.js, TypeScript, Supabase
+
+### [Grounded Knowledge Workspace](https://github.com/AmmarBinYasir489/grounded-knowledge-workspace)
+
+A private document workspace for querying internal knowledge with grounded, source-aware responses.
+
+**Built with:** TypeScript, RAG, AI Search
+
+---
+
+## Current Focus
+
+- Production AI agents
+- Reliable n8n and API-driven automation
+- Agent evaluation and observability
+- Multimodal AI applications
+- Secure, maintainable LLM systems
+
+---
+
+## Let's Connect
+
+I'm interested in AI automation, intelligent products, workflow engineering, and open-source collaboration.
+
+Explore my repositories to see what I'm building.
