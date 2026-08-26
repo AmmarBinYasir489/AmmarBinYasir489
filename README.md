@@ -1,14 +1,14 @@
-<div align="center">
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:2563EB,100:06B6D4&height=220&section=header&text=Ammar%20Bin%20Yasir&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Full-Stack%20AI&descAlignY=60&animation=fadeIn" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:FF1738,100:030303&height=220&section=header&text=Ammar%20Bin%20Yasir&fontSize=48&fontColor=F4F2EF&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Full-Stack%20AI&descAlignY=60&animation=fadeIn" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+AI+agents+that+do+real+work.;I+automate+business+workflows+with+n8n.;I+ship+grounded%2C+production-ready+AI+products." alt="Typing animation describing Ammar's work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF1738&center=true&vCenter=true&width=720&lines=I+build+AI+agents+that+do+real+work.;I+automate+business+workflows+with+n8n.;I+ship+grounded%2C+production-ready+AI+products." alt="Typing animation describing Ammar's work" />
 </a>
 
 <p>
-  <a href="https://github.com/AmmarBinYasir489?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Ammar's repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AmmarBinYasir489&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/AmmarBinYasir489?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-030303?style=for-the-badge&logo=github&logoColor=FF1738" alt="Explore Ammar's repositories" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AmmarBinYasir489&style=for-the-badge&color=FF1738&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -73,11 +73,11 @@ Discover the workflow  →  Design the system  →  Build & integrate  →  Meas
 
 ### AI, Automation & Backend
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-030303?style=for-the-badge&logo=openai&logoColor=FF1738) ![Gemini](https://img.shields.io/badge/Google_Gemini-030303?style=for-the-badge&logo=googlegemini&logoColor=FF1738) ![Ollama](https://img.shields.io/badge/Ollama-030303?style=for-the-badge&logo=ollama&logoColor=FF1738) ![n8n](https://img.shields.io/badge/n8n-030303?style=for-the-badge&logo=n8n&logoColor=FF1738) ![Python](https://img.shields.io/badge/Python-030303?style=for-the-badge&logo=python&logoColor=FF1738) ![FastAPI](https://img.shields.io/badge/FastAPI-030303?style=for-the-badge&logo=fastapi&logoColor=FF1738) ![Node.js](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=nodedotjs&logoColor=FF1738)
 
 ### Frontend, Data & Cloud
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-030303?style=for-the-badge&logo=nextdotjs&logoColor=FF1738) ![React](https://img.shields.io/badge/React-030303?style=for-the-badge&logo=react&logoColor=FF1738) ![TypeScript](https://img.shields.io/badge/TypeScript-030303?style=for-the-badge&logo=typescript&logoColor=FF1738) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-030303?style=for-the-badge&logo=tailwindcss&logoColor=FF1738) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=for-the-badge&logo=postgresql&logoColor=FF1738) ![Supabase](https://img.shields.io/badge/Supabase-030303?style=for-the-badge&logo=supabase&logoColor=FF1738) ![Vercel](https://img.shields.io/badge/Vercel-030303?style=for-the-badge&logo=vercel&logoColor=FF1738)
 
 </div>
 
@@ -148,7 +148,7 @@ An AI wardrobe assistant that analyzes clothing, creates outfit combinations, an
 
 <div align="center">
   <a href="https://github.com/AmmarBinYasir489?tab=repositories">
-    <img src="https://img.shields.io/badge/View_all_repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/View_all_repositories-FF1738?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
   </a>
 </div>
 
@@ -167,12 +167,12 @@ I'm interested in **AI automation, intelligent products, workflow engineering, a
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AmmarBinYasir489-181717?style=for-the-badge&logo=github)](https://github.com/AmmarBinYasir489)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github)](https://github.com/AmmarBinYasir489?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-FF1738?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarBinYasir489?tab=repositories)
 
 <br />
 
 <sub>Build useful systems. Automate thoughtfully. Keep AI grounded.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1020&height=110&section=footer" width="100%" alt="Decorative footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:FF1738,100:030303&height=110&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
