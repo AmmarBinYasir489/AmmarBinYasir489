@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:151515,75:FF1738,100:050505&height=230&section=header&text=Ammar%20Bin%20Yasir&fontSize=48&fontColor=F7F4F1&fontAlignY=37&desc=AI%20Automation%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20n8n%20%26%20RAG&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
+<img src="./assets/profile-header.svg" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer, AI Agents, n8n and RAG" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=FF1738&center=true&vCenter=true&repeat=true&width=760&lines=I+build+AI+agents+that+do+useful+work.;I+automate+workflows+with+n8n+and+APIs.;I+create+grounded+knowledge+systems+with+RAG.;AI+is+useful+when+it+connects+to+real+workflows." alt="Typing animation describing Ammar's work" />
@@ -246,12 +246,5 @@ If you are working on a process that involves repetitive research, documents, co
 <sub>Build the workflow. Ground the intelligence. Validate the result.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF1738,100:050505&height=110&section=footer" width="100%" alt="Footer" />
-
-</div>
-
-
-<sub>Build useful systems. Automate thoughtfully. Keep AI grounded.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:FF1738,100:030303&height=110&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
