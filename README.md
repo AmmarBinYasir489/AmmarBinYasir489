@@ -1,175 +1,254 @@
-<div align="left">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:FF1738,100:030303&height=220&section=header&text=Ammar%20Bin%20Yasir&fontSize=48&fontColor=F4F2EF&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Full-Stack%20AI&descAlignY=60&animation=fadeIn" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:151515,75:FF1738,100:050505&height=230&section=header&text=Ammar%20Bin%20Yasir&fontSize=48&fontColor=F7F4F1&fontAlignY=37&desc=AI%20Automation%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20n8n%20%26%20RAG&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FF1738&center=true&vCenter=true&width=720&lines=I+build+AI+agents+that+do+real+work.;I+automate+business+workflows+with+n8n.;I+ship+grounded%2C+production-ready+AI+products." alt="Typing animation describing Ammar's work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=FF1738&center=true&vCenter=true&repeat=true&width=760&lines=I+build+AI+agents+that+do+useful+work.;I+automate+workflows+with+n8n+and+APIs.;I+create+grounded+knowledge+systems+with+RAG.;AI+is+useful+when+it+connects+to+real+workflows." alt="Typing animation describing Ammar's work" />
 </a>
 
 <p>
-  <a href="https://github.com/AmmarBinYasir489?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-030303?style=for-the-badge&logo=github&logoColor=FF1738" alt="Explore Ammar's repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AmmarBinYasir489&style=for-the-badge&color=FF1738&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="#-what-i-build"><img src="https://img.shields.io/badge/What_I_Build-FF1738?style=for-the-badge&logo=probot&logoColor=white" alt="What I build" /></a>
+  <a href="#-featured-systems"><img src="https://img.shields.io/badge/Featured_Systems-111111?style=for-the-badge&logo=github&logoColor=FF1738" alt="Featured systems" /></a>
+  <a href="#-automation-lab"><img src="https://img.shields.io/badge/Automation_Lab-111111?style=for-the-badge&logo=n8n&logoColor=FF1738" alt="Automation lab" /></a>
+  <a href="#-connect"><img src="https://img.shields.io/badge/Connect-111111?style=for-the-badge&logo=minutemailer&logoColor=FF1738" alt="Connect" /></a>
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=AmmarBinYasir489&style=flat-square&color=FF1738&label=PROFILE+VIEWS)
+
 </div>
 
-## 👋 About Me
+## `> whoami`
 
-I'm an **AI Automation Engineer** focused on turning repetitive processes into dependable systems. I combine **AI engineering, workflow automation, API integration, and full-stack development** to take solutions from process discovery through deployment.
+I'm **Ammar Bin Yasir**, an **AI Automation Engineer** who builds AI agents, n8n workflows, RAG knowledge systems, and API-driven automations.
+
+I use full-stack technologies when an AI system needs a secure interface, backend, database, or deployment—but the goal is always the same: connect AI to a real process and make the result dependable.
 
 ```text
-Discover the workflow  →  Design the system  →  Build & integrate  →  Measure & improve
+Understand the process → Design the workflow → Connect the tools → Validate the output
 ```
 
-- 🤖 Building task-focused **AI agents** and reliable multi-step pipelines
-- ⚡ Automating operations with **n8n, webhooks, REST APIs, and human approval points**
-- 📚 Creating grounded **RAG, document intelligence, and private knowledge** experiences
-- 🧠 Developing **multimodal AI** applications for images and documents
-- 🛠️ Shipping complete products with **Next.js, TypeScript, Python, FastAPI, and Supabase**
+```python
+ammar = {
+    "role": "AI Automation Engineer",
+    "building": ["AI agents", "n8n workflows", "RAG systems"],
+    "integrating": ["LLMs", "APIs", "vector databases", "business tools"],
+    "principle": "Useful AI must be grounded, testable, and connected to real work."
+}
+```
 
-## ⚙️ What I Build
+## 🤖 What I Build
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI Agents
+### AI Agents
 
-- Task-focused assistants
-- Research and productivity agents
-- Tool-using AI workflows
-- Evaluation and observability
-- Human-in-the-loop systems
-
-</td>
-<td width="33%" valign="top">
-
-### 🔄 Automation
-
-- n8n workflow orchestration
-- CRM and lead automation
-- API and webhook integrations
-- Data synchronization
-- Internal operations tooling
+- Research assistants
+- Task-focused agents
+- Tool and API integration
+- Structured AI outputs
+- Evidence-grounded responses
 
 </td>
 <td width="33%" valign="top">
 
-### 🚀 AI Products
+### n8n Automation
 
-- LLM-powered web applications
-- RAG and knowledge assistants
-- Multimodal AI systems
-- FastAPI services
-- Production-ready interfaces
+- Multi-step AI workflows
+- Scheduled research pipelines
+- Discord and WordPress automation
+- Webhooks and REST APIs
+- Content-processing systems
+
+</td>
+<td width="33%" valign="top">
+
+### RAG Systems
+
+- Private knowledge bases
+- Document ingestion
+- Qdrant vector search
+- Scoped retrieval
+- Source-grounded answers
 
 </td>
 </tr>
 </table>
 
-## 🧰 Technology Stack
+## 🧭 How My Systems Work
+
+```mermaid
+flowchart LR
+    A[Business task] --> B{Automation layer}
+    B -->|Events & schedules| C[n8n]
+    B -->|Custom logic| D[Python / FastAPI]
+    C --> E[AI model]
+    D --> E
+    E --> F{Knowledge needed?}
+    F -->|Yes| G[Qdrant / RAG]
+    F -->|No| H[Validated output]
+    G --> H
+    H --> I[Discord / WordPress / Web App / API]
+
+    style A fill:#111,color:#fff,stroke:#FF1738
+    style E fill:#FF1738,color:#fff,stroke:#FF1738
+    style I fill:#111,color:#fff,stroke:#FF1738
+```
+
+## ✨ Featured Systems
+
+<details open>
+<summary><strong>📚 Grounded Knowledge Workspace — private RAG with controlled sources</strong></summary>
+<br>
+
+A document-backed AI workspace where users upload company knowledge, create assistants, and control exactly which documents each assistant may search.
+
+**What makes it useful:** tenant-aware retrieval, assistant-specific document selection, duplicate detection, grounded answers, and coordinated document deletion.
+
+**Stack:** `n8n` `Qdrant` `Gemini` `Supabase` `Next.js` `TypeScript`
+
+[Explore the repository →](https://github.com/AmmarBinYasir489/grounded-knowledge-workspace)
+
+</details>
+
+<details open>
+<summary><strong>🔎 AI Research Assistant — evidence before answers</strong></summary>
+<br>
+
+A research agent that searches current sources, evaluates evidence, and produces confidence-aware summaries with citations.
+
+**What makes it useful:** research and response generation are separated, sources are ranked, and answers show supporting evidence instead of hiding it.
+
+**Stack:** `Python` `FastAPI` `Ollama` `Gemini` `Search APIs`
+
+[Explore the repository →](https://github.com/AmmarBinYasir489/ai-research-assistant)
+
+</details>
+
+<details>
+<summary><strong>🧭 CodeRecall — grounded memory for software projects</strong></summary>
+<br>
+
+An evidence-backed developer memory system that understands Git repositories, helps recover unfinished work, and answers codebase questions with file and line references.
+
+**Stack:** `Python` `Git` `Grounded AI` `Developer Tools`
+
+[Explore the repository →](https://github.com/AmmarBinYasir489/coderecall)
+
+</details>
+
+<details>
+<summary><strong>💳 Expense AI — natural language to structured financial data</strong></summary>
+<br>
+
+An AI-powered expense system that converts everyday messages into validated transactions and supports budgets, loans, analytics, and financial Q&A grounded in saved records.
+
+**Stack:** `Gemini` `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Zod`
+
+[Explore the repository →](https://github.com/AmmarBinYasir489/expense-ai)
+
+</details>
+
+<details>
+<summary><strong>🥗 Nourish — multimodal meal analysis</strong></summary>
+<br>
+
+An AI-assisted nutrition system that analyzes meal photos, returns validated nutrition estimates, and turns confirmed meals into reusable personal templates.
+
+**Stack:** `Gemini Vision` `Next.js` `Supabase` `PostgreSQL` `Zod`
+
+[Explore the repository →](https://github.com/AmmarBinYasir489/calories-counter)
+
+</details>
+
+## ⚡ Automation Lab
+
+These workflows focus on reducing repetitive research and content operations.
+
+<details>
+<summary><strong>📰 AI News Research → Discord</strong></summary>
+<br>
+
+An n8n workflow that collects recent AI news, processes and summarizes the findings, then delivers a structured update to Discord.
+
+`Scheduled trigger` → `Research` → `Filter` → `AI summary` → `Discord`
+
+</details>
+
+<details>
+<summary><strong>🎬 YouTube → WordPress Article + Featured Image</strong></summary>
+<br>
+
+An n8n content workflow that accepts a YouTube link, processes the video's content, generates a structured article and featured image, and sends the result to WordPress.
+
+`YouTube URL` → `Content extraction` → `Article generation` → `Featured image` → `WordPress`
+
+</details>
+
+<details>
+<summary><strong>📖 Documents → Qdrant Knowledge Base</strong></summary>
+<br>
+
+An n8n-powered RAG pipeline for ingesting documents, creating embeddings, storing searchable chunks in Qdrant, and retrieving scoped context for grounded answers.
+
+`Document` → `Extract` → `Chunk` → `Embed` → `Qdrant` → `Grounded answer`
+
+</details>
+
+> Workflow exports and screenshots should be published only after credentials, webhook URLs, account IDs, and private data have been removed.
+
+## 🧰 Core Toolkit
 
 <div align="center">
 
-### AI, Automation & Backend
+### AI, Agents & Automation
 
-![OpenAI](https://img.shields.io/badge/OpenAI-030303?style=for-the-badge&logo=openai&logoColor=FF1738) ![Gemini](https://img.shields.io/badge/Google_Gemini-030303?style=for-the-badge&logo=googlegemini&logoColor=FF1738) ![Ollama](https://img.shields.io/badge/Ollama-030303?style=for-the-badge&logo=ollama&logoColor=FF1738) ![n8n](https://img.shields.io/badge/n8n-030303?style=for-the-badge&logo=n8n&logoColor=FF1738) ![Python](https://img.shields.io/badge/Python-030303?style=for-the-badge&logo=python&logoColor=FF1738) ![FastAPI](https://img.shields.io/badge/FastAPI-030303?style=for-the-badge&logo=fastapi&logoColor=FF1738) ![Node.js](https://img.shields.io/badge/Node.js-030303?style=for-the-badge&logo=nodedotjs&logoColor=FF1738)
+![n8n](https://img.shields.io/badge/n8n-090909?style=for-the-badge&logo=n8n&logoColor=FF1738)
+![Gemini](https://img.shields.io/badge/Google_Gemini-090909?style=for-the-badge&logo=googlegemini&logoColor=FF1738)
+![Ollama](https://img.shields.io/badge/Ollama-090909?style=for-the-badge&logo=ollama&logoColor=FF1738)
+![Qdrant](https://img.shields.io/badge/Qdrant-090909?style=for-the-badge&logo=qdrant&logoColor=FF1738)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FF1738)
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=FF1738)
 
-### Frontend, Data & Cloud
+### APIs, Data & Delivery
 
-![Next.js](https://img.shields.io/badge/Next.js-030303?style=for-the-badge&logo=nextdotjs&logoColor=FF1738) ![React](https://img.shields.io/badge/React-030303?style=for-the-badge&logo=react&logoColor=FF1738) ![TypeScript](https://img.shields.io/badge/TypeScript-030303?style=for-the-badge&logo=typescript&logoColor=FF1738) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-030303?style=for-the-badge&logo=tailwindcss&logoColor=FF1738) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-030303?style=for-the-badge&logo=postgresql&logoColor=FF1738) ![Supabase](https://img.shields.io/badge/Supabase-030303?style=for-the-badge&logo=supabase&logoColor=FF1738) ![Vercel](https://img.shields.io/badge/Vercel-030303?style=for-the-badge&logo=vercel&logoColor=FF1738)
+![REST API](https://img.shields.io/badge/REST_APIs-090909?style=for-the-badge&logo=fastapi&logoColor=FF1738)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FF1738)
+![Supabase](https://img.shields.io/badge/Supabase-090909?style=for-the-badge&logo=supabase&logoColor=FF1738)
+![Next.js](https://img.shields.io/badge/Next.js-090909?style=for-the-badge&logo=nextdotjs&logoColor=FF1738)
+![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=FF1738)
+![Vercel](https://img.shields.io/badge/Vercel-090909?style=for-the-badge&logo=vercel&logoColor=FF1738)
 
-</div>
-
-## ✨ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧭 [CodeRecall](https://github.com/AmmarBinYasir489/coderecall)
-
-Evidence-backed developer memory that understands Git repositories, recovers unfinished work, and answers codebase questions with file and line citations.
-
-`Python` `Developer Tools` `Grounded AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 [AI Research Assistant](https://github.com/AmmarBinYasir489/ai-research-assistant)
-
-A research agent that searches current sources, ranks evidence, and produces confidence-aware summaries with citations.
-
-`Python` `FastAPI` `Ollama` `Gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 [Expense AI](https://github.com/AmmarBinYasir489/expense-ai)
-
-A personal finance platform with natural-language expense entry, budgets, loans, analytics, and data-grounded financial Q&A.
-
-`Next.js` `TypeScript` `Supabase`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [Grounded Knowledge Workspace](https://github.com/AmmarBinYasir489/grounded-knowledge-workspace)
-
-A secure workspace for uploading company documents, creating scoped assistants, and getting grounded answers from selected sources.
-
-`TypeScript` `RAG` `AI Search`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🥗 [AI Nutrition Tracker](https://github.com/AmmarBinYasir489/calories-counter)
-
-A multimodal nutrition tracker that uses Gemini Vision to analyze meal photos, estimate macros, and simplify food logging.
-
-`Next.js` `Supabase` `Gemini Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### 👔 [AI Stylist](https://github.com/AmmarBinYasir489/ai-stylist)
-
-An AI wardrobe assistant that analyzes clothing, creates outfit combinations, and visualizes complete looks on a mannequin.
-
-`TypeScript` `Computer Vision` `Generative AI`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/AmmarBinYasir489?tab=repositories">
-    <img src="https://img.shields.io/badge/View_all_repositories-FF1738?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
-  </a>
 </div>
 
 ## 🎯 Current Focus
 
-- Production AI agents with dependable tool use
-- Reliable n8n and API-driven business automation
-- Agent evaluation, tracing, and observability
-- Multimodal applications for images and documents
-- Secure, maintainable, grounded LLM systems
+- Building task-focused AI agents and research assistants
+- Designing reliable n8n and API-driven automations
+- Creating private RAG systems with controlled retrieval
+- Connecting multimodal AI to useful applications
+- Improving validation, security, and maintainability in AI workflows
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-I'm interested in **AI automation, intelligent products, workflow engineering, and open-source collaboration**.
+I'm interested in **AI agents, workflow automation, RAG systems, and practical AI integrations**.
+
+If you are working on a process that involves repetitive research, documents, content, or disconnected tools, I would be happy to explore how AI and automation could improve it.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmmarBinYasir489-181717?style=for-the-badge&logo=github)](https://github.com/AmmarBinYasir489)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-FF1738?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarBinYasir489?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-AmmarBinYasir489-111111?style=for-the-badge&logo=github&logoColor=FF1738)](https://github.com/AmmarBinYasir489)
+[![Repositories](https://img.shields.io/badge/Explore_Repositories-FF1738?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarBinYasir489?tab=repositories)
 
-<br />
+<br>
+
+<sub>Build the workflow. Ground the intelligence. Validate the result.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF1738,100:050505&height=110&section=footer" width="100%" alt="Footer" />
+
+</div>
+
 
 <sub>Build useful systems. Automate thoughtfully. Keep AI grounded.</sub>
 
