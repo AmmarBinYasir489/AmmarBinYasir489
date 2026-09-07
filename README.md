@@ -1,250 +1,285 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer, AI Agents, n8n and RAG" />
+<img src="./assets/profile-header.svg" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
+
+<br>
+
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0b0b0b?style=for-the-badge&logo=readme&logoColor=FF1738" alt="About" /></a>
+<a href="#featured-work"><img src="https://img.shields.io/badge/PROJECTS-0b0b0b?style=for-the-badge&logo=github&logoColor=FF1738" alt="Projects" /></a>
+<a href="#automation-lab"><img src="https://img.shields.io/badge/AUTOMATIONS-0b0b0b?style=for-the-badge&logo=n8n&logoColor=FF1738" alt="Automations" /></a>
+<a href="#toolkit"><img src="https://img.shields.io/badge/TOOLKIT-0b0b0b?style=for-the-badge&logo=stackshare&logoColor=FF1738" alt="Toolkit" /></a>
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=FF1738&center=true&vCenter=true&repeat=true&width=760&lines=I+build+AI+agents+that+do+useful+work.;I+automate+workflows+with+n8n+and+APIs.;I+create+grounded+knowledge+systems+with+RAG.;AI+is+useful+when+it+connects+to+real+workflows." alt="Typing animation describing Ammar's work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=FF1738&center=true&vCenter=true&repeat=true&width=760&lines=Building+AI+agents+that+do+useful+work.;Automating+workflows+with+n8n+and+APIs.;Creating+grounded+knowledge+systems+with+RAG.;Connecting+intelligence+to+real+business+processes." alt="Animated introduction" />
 </a>
-
-<p>
-  <a href="#-what-i-build"><img src="https://img.shields.io/badge/What_I_Build-FF1738?style=for-the-badge&logo=probot&logoColor=white" alt="What I build" /></a>
-  <a href="#-featured-systems"><img src="https://img.shields.io/badge/Featured_Systems-111111?style=for-the-badge&logo=github&logoColor=FF1738" alt="Featured systems" /></a>
-  <a href="#-automation-lab"><img src="https://img.shields.io/badge/Automation_Lab-111111?style=for-the-badge&logo=n8n&logoColor=FF1738" alt="Automation lab" /></a>
-  <a href="#-connect"><img src="https://img.shields.io/badge/Connect-111111?style=for-the-badge&logo=minutemailer&logoColor=FF1738" alt="Connect" /></a>
-</p>
-
-![Profile views](https://komarev.com/ghpvc/?username=AmmarBinYasir489&style=flat-square&color=FF1738&label=PROFILE+VIEWS)
 
 </div>
 
-## `> whoami`
+---
 
-I'm **Ammar Bin Yasir**, an **AI Automation Engineer** who builds AI agents, n8n workflows, RAG knowledge systems, and API-driven automations.
+<a id="about"></a>
 
-I use full-stack technologies when an AI system needs a secure interface, backend, database, or deployment—but the goal is always the same: connect AI to a real process and make the result dependable.
-
-```text
-Understand the process → Design the workflow → Connect the tools → Validate the output
-```
-
-```python
-ammar = {
-    "role": "AI Automation Engineer",
-    "building": ["AI agents", "n8n workflows", "RAG systems"],
-    "integrating": ["LLMs", "APIs", "vector databases", "business tools"],
-    "principle": "Useful AI must be grounded, testable, and connected to real work."
-}
-```
-
-## 🤖 What I Build
+## `01. ABOUT`
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="58%" valign="middle">
 
-### AI Agents
+### Hi, I'm Ammar 👋
 
-- Research assistants
-- Task-focused agents
-- Tool and API integration
-- Structured AI outputs
-- Evidence-grounded responses
+I'm an **AI Automation Engineer** building AI agents, n8n workflows, RAG knowledge systems, and API-driven automations.
 
-</td>
-<td width="33%" valign="top">
+I focus on the part that turns an AI demo into a useful system: connecting models to data, tools, decisions, and real outputs.
 
-### n8n Automation
-
-- Multi-step AI workflows
-- Scheduled research pipelines
-- Discord and WordPress automation
-- Webhooks and REST APIs
-- Content-processing systems
+```yaml
+role: AI Automation Engineer
+focus:
+  - AI agents
+  - n8n automation
+  - RAG systems
+  - API integration
+currently_building: reliable, grounded AI workflows
+```
 
 </td>
-<td width="33%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-### RAG Systems
-
-- Private knowledge bases
-- Document ingestion
-- Qdrant vector search
-- Scoped retrieval
-- Source-grounded answers
+<img src="./assets/ai-workflow-visual.svg" width="100%" alt="AI agent connected to documents, n8n, APIs and outputs" />
 
 </td>
 </tr>
 </table>
 
-## 🧭 How My Systems Work
+> **My rule:** AI should not only generate text. It should understand context, use the right tools, produce validated output, and move work forward.
 
-```mermaid
-flowchart LR
-    A[Business task] --> B{Automation layer}
-    B -->|Events & schedules| C[n8n]
-    B -->|Custom logic| D[Python / FastAPI]
-    C --> E[AI model]
-    D --> E
-    E --> F{Knowledge needed?}
-    F -->|Yes| G[Qdrant / RAG]
-    F -->|No| H[Validated output]
-    G --> H
-    H --> I[Discord / WordPress / Web App / API]
+---
 
-    style A fill:#111,color:#fff,stroke:#FF1738
-    style E fill:#FF1738,color:#fff,stroke:#FF1738
-    style I fill:#111,color:#fff,stroke:#FF1738
+## `02. WHAT I BUILD`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Agents
+
+Research assistants, task-focused agents, tool use, structured outputs, and evidence-grounded responses.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Automation
+
+n8n workflows, scheduled pipelines, webhooks, REST APIs, Discord, WordPress, and third-party integrations.
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 RAG
+
+Document ingestion, embeddings, Qdrant vector search, scoped retrieval, and private knowledge assistants.
+
+</td>
+</tr>
+</table>
+
+```text
+TRIGGER  →  ORCHESTRATE  →  REASON  →  RETRIEVE  →  VALIDATE  →  ACT
+ event         n8n          LLM         RAG          rules       output
 ```
 
-## ✨ Featured Systems
+---
+
+<a id="featured-work"></a>
+
+## `03. FEATURED WORK`
 
 <details open>
-<summary><strong>📚 Grounded Knowledge Workspace — private RAG with controlled sources</strong></summary>
+<summary><strong>📚 Grounded Knowledge Workspace</strong> — private, scoped RAG</summary>
 <br>
 
-A document-backed AI workspace where users upload company knowledge, create assistants, and control exactly which documents each assistant may search.
+Upload company documents, create assistants, and control exactly which sources each assistant may search. Retrieval is constrained by tenant and selected document IDs.
 
-**What makes it useful:** tenant-aware retrieval, assistant-specific document selection, duplicate detection, grounded answers, and coordinated document deletion.
+`n8n` `Qdrant` `Gemini` `Supabase` `RAG` `TypeScript`
 
-**Stack:** `n8n` `Qdrant` `Gemini` `Supabase` `Next.js` `TypeScript`
-
-[Explore the repository →](https://github.com/AmmarBinYasir489/grounded-knowledge-workspace)
+[Repository →](https://github.com/AmmarBinYasir489/grounded-knowledge-workspace)
 
 </details>
 
 <details open>
-<summary><strong>🔎 AI Research Assistant — evidence before answers</strong></summary>
+<summary><strong>🔎 AI Research Assistant</strong> — evidence before answers</summary>
 <br>
 
-A research agent that searches current sources, evaluates evidence, and produces confidence-aware summaries with citations.
+A research agent that discovers current sources, evaluates evidence, and produces cited, confidence-aware summaries.
 
-**What makes it useful:** research and response generation are separated, sources are ranked, and answers show supporting evidence instead of hiding it.
+`Python` `FastAPI` `Ollama` `Gemini` `Search APIs`
 
-**Stack:** `Python` `FastAPI` `Ollama` `Gemini` `Search APIs`
-
-[Explore the repository →](https://github.com/AmmarBinYasir489/ai-research-assistant)
+[Repository →](https://github.com/AmmarBinYasir489/ai-research-assistant)
 
 </details>
 
 <details>
-<summary><strong>🧭 CodeRecall — grounded memory for software projects</strong></summary>
+<summary><strong>🧭 CodeRecall</strong> — grounded developer memory</summary>
 <br>
 
-An evidence-backed developer memory system that understands Git repositories, helps recover unfinished work, and answers codebase questions with file and line references.
+Understands Git repositories, helps recover unfinished work, and answers codebase questions using file and line evidence.
 
-**Stack:** `Python` `Git` `Grounded AI` `Developer Tools`
+`Python` `Git` `Grounded AI` `Developer Tools`
 
-[Explore the repository →](https://github.com/AmmarBinYasir489/coderecall)
+[Repository →](https://github.com/AmmarBinYasir489/coderecall)
 
 </details>
 
 <details>
-<summary><strong>💳 Expense AI — natural language to structured financial data</strong></summary>
+<summary><strong>💳 Expense AI</strong> — natural language to validated records</summary>
 <br>
 
-An AI-powered expense system that converts everyday messages into validated transactions and supports budgets, loans, analytics, and financial Q&A grounded in saved records.
+Converts everyday financial messages into structured transactions and supports budgets, loans, analytics, and Q&A grounded in saved data.
 
-**Stack:** `Gemini` `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Zod`
+`Gemini` `Next.js` `Supabase` `PostgreSQL` `Zod`
 
-[Explore the repository →](https://github.com/AmmarBinYasir489/expense-ai)
+[Repository →](https://github.com/AmmarBinYasir489/expense-ai)
 
 </details>
 
 <details>
-<summary><strong>🥗 Nourish — multimodal meal analysis</strong></summary>
+<summary><strong>🥗 Nourish</strong> — multimodal nutrition analysis</summary>
 <br>
 
-An AI-assisted nutrition system that analyzes meal photos, returns validated nutrition estimates, and turns confirmed meals into reusable personal templates.
+Analyzes meal photos, returns validated nutrition estimates, and turns confirmed meals into reusable templates.
 
-**Stack:** `Gemini Vision` `Next.js` `Supabase` `PostgreSQL` `Zod`
+`Gemini Vision` `Next.js` `Supabase` `PostgreSQL` `Zod`
 
-[Explore the repository →](https://github.com/AmmarBinYasir489/calories-counter)
+[Repository →](https://github.com/AmmarBinYasir489/calories-counter)
 
 </details>
 
-## ⚡ Automation Lab
+<div align="right">
 
-These workflows focus on reducing repetitive research and content operations.
-
-<details>
-<summary><strong>📰 AI News Research → Discord</strong></summary>
-<br>
-
-An n8n workflow that collects recent AI news, processes and summarizes the findings, then delivers a structured update to Discord.
-
-`Scheduled trigger` → `Research` → `Filter` → `AI summary` → `Discord`
-
-</details>
-
-<details>
-<summary><strong>🎬 YouTube → WordPress Article + Featured Image</strong></summary>
-<br>
-
-An n8n content workflow that accepts a YouTube link, processes the video's content, generates a structured article and featured image, and sends the result to WordPress.
-
-`YouTube URL` → `Content extraction` → `Article generation` → `Featured image` → `WordPress`
-
-</details>
-
-<details>
-<summary><strong>📖 Documents → Qdrant Knowledge Base</strong></summary>
-<br>
-
-An n8n-powered RAG pipeline for ingesting documents, creating embeddings, storing searchable chunks in Qdrant, and retrieving scoped context for grounded answers.
-
-`Document` → `Extract` → `Chunk` → `Embed` → `Qdrant` → `Grounded answer`
-
-</details>
-
-> Workflow exports and screenshots should be published only after credentials, webhook URLs, account IDs, and private data have been removed.
-
-## 🧰 Core Toolkit
-
-<div align="center">
-
-### AI, Agents & Automation
-
-![n8n](https://img.shields.io/badge/n8n-090909?style=for-the-badge&logo=n8n&logoColor=FF1738)
-![Gemini](https://img.shields.io/badge/Google_Gemini-090909?style=for-the-badge&logo=googlegemini&logoColor=FF1738)
-![Ollama](https://img.shields.io/badge/Ollama-090909?style=for-the-badge&logo=ollama&logoColor=FF1738)
-![Qdrant](https://img.shields.io/badge/Qdrant-090909?style=for-the-badge&logo=qdrant&logoColor=FF1738)
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FF1738)
-![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=FF1738)
-
-### APIs, Data & Delivery
-
-![REST API](https://img.shields.io/badge/REST_APIs-090909?style=for-the-badge&logo=fastapi&logoColor=FF1738)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FF1738)
-![Supabase](https://img.shields.io/badge/Supabase-090909?style=for-the-badge&logo=supabase&logoColor=FF1738)
-![Next.js](https://img.shields.io/badge/Next.js-090909?style=for-the-badge&logo=nextdotjs&logoColor=FF1738)
-![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=FF1738)
-![Vercel](https://img.shields.io/badge/Vercel-090909?style=for-the-badge&logo=vercel&logoColor=FF1738)
+[View all repositories →](https://github.com/AmmarBinYasir489?tab=repositories)
 
 </div>
 
-## 🎯 Current Focus
+---
 
-- Building task-focused AI agents and research assistants
-- Designing reliable n8n and API-driven automations
-- Creating private RAG systems with controlled retrieval
-- Connecting multimodal AI to useful applications
-- Improving validation, security, and maintainability in AI workflows
+<a id="automation-lab"></a>
 
-## 🤝 Connect
+## `04. AUTOMATION LAB`
 
-I'm interested in **AI agents, workflow automation, RAG systems, and practical AI integrations**.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-If you are working on a process that involves repetitive research, documents, content, or disconnected tools, I would be happy to explore how AI and automation could improve it.
+### 📰 News → Discord
+
+Researches recent AI news, filters and summarizes the findings, then delivers a structured Discord update.
+
+`Schedule` `Research` `LLM` `Discord`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 YouTube → WordPress
+
+Transforms a YouTube link into a structured WordPress article with a generated featured image.
+
+`YouTube` `AI Content` `Image` `WordPress`
+
+</td>
+<td width="33%" valign="top">
+
+### 📖 Docs → Qdrant
+
+Extracts and chunks documents, creates embeddings, and stores scoped vectors for grounded retrieval.
+
+`Documents` `Embeddings` `Qdrant` `RAG`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Open the automation pipeline</strong></summary>
+<br>
+
+```mermaid
+flowchart LR
+    A[Trigger] --> B[n8n]
+    B --> C[Collect data]
+    C --> D[AI processing]
+    D --> E{Validate}
+    E -->|Valid| F[Discord / WordPress / Qdrant]
+    E -->|Retry| D
+
+    style B fill:#ff1738,color:#fff,stroke:#ff1738
+    style E fill:#111,color:#fff,stroke:#ff1738
+```
+
+</details>
+
+---
+
+<a id="toolkit"></a>
+
+## `05. TOOLKIT`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-AmmarBinYasir489-111111?style=for-the-badge&logo=github&logoColor=FF1738)](https://github.com/AmmarBinYasir489)
-[![Repositories](https://img.shields.io/badge/Explore_Repositories-FF1738?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarBinYasir489?tab=repositories)
+### Intelligence & Orchestration
 
-<br>
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=FF1738)
+![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=FF1738)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=FF1738)
+![Qdrant](https://img.shields.io/badge/Qdrant-111111?style=for-the-badge&logo=qdrant&logoColor=FF1738)
 
-<sub>Build the workflow. Ground the intelligence. Validate the result.</sub>
+### Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF1738,100:050505&height=110&section=footer" width="100%" alt="Footer" />
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF1738)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FF1738)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF1738)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=FF1738)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=FF1738)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FF1738)
+
+</div>
+
+---
+
+## `06. ACTIVITY`
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmarBinYasir489&theme=radical" alt="Ammar's GitHub contribution summary" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmmarBinYasir489&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff1738&icon_color=ff1738&text_color=d8d5d2" alt="Ammar's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarBinYasir489&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff1738&text_color=d8d5d2" alt="Ammar's most used languages" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarBinYasir489&bg_color=0d1117&color=d8d5d2&line=ff1738&point=ffffff&area=true&hide_border=true" alt="Ammar's GitHub activity graph" />
+
+</div>
+
+---
+
+## `07. NOW`
+
+- Building task-focused agents that use tools and evidence
+- Designing n8n workflows for research and content operations
+- Developing private knowledge systems with controlled retrieval
+- Improving validation, security, and maintainability in AI workflows
+
+---
+
+<div align="center">
+
+### Have a repetitive process or disconnected set of tools?
+
+**Let's turn it into an intelligent workflow.**
+
+[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-FF1738?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarBinYasir489?tab=repositories)
+
+<br><br>
+
+<sub>Build the workflow · Ground the intelligence · Validate the result</sub>
 
 </div>
