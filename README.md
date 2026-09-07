@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:FF1738,100:030303&height=220&section=header&text=Ammar%20Bin%20Yasir&fontSize=48&fontColor=F4F2EF&fontAlignY=38&desc=AI%20Automation%20Engineer%20-%20AI%20Agents%20-%20n8n%20-%20RAG&descAlignY=60&animation=fadeIn" width="100%" alt="Ammar Bin Yasir — AI Automation Engineer" />
 
 <br>
 
@@ -23,10 +23,6 @@
 
 ## `01. ABOUT`
 
-<table>
-<tr>
-<td width="58%" valign="middle">
-
 ### Hi, I'm Ammar 👋
 
 I'm an **AI Automation Engineer** building AI agents, n8n workflows, RAG knowledge systems, and API-driven automations.
@@ -42,15 +38,6 @@ focus:
   - API integration
 currently_building: reliable, grounded AI workflows
 ```
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="./assets/ai-workflow-visual.svg" width="100%" alt="AI agent connected to documents, n8n, APIs and outputs" />
-
-</td>
-</tr>
-</table>
 
 > **My rule:** AI should not only generate text. It should understand context, use the right tools, produce validated output, and move work forward.
 
@@ -220,33 +207,37 @@ flowchart LR
 
 ---
 
-<a id="toolkit"></a>
-
-## `05. TOOLKIT`
+## `05. CONNECT`
 
 <div align="center">
 
-### Intelligence & Orchestration
-
-![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=FF1738)
-![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=FF1738)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=FF1738)
-![Qdrant](https://img.shields.io/badge/Qdrant-111111?style=for-the-badge&logo=qdrant&logoColor=FF1738)
-
-### Engineering
-
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF1738)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=FF1738)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF1738)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=FF1738)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=FF1738)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FF1738)
+[<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" height="34" alt="GitHub" />](https://github.com/AmmarBinYasir489)
+[<img src="https://img.shields.io/badge/Repositories-FF1738?style=for-the-badge&logo=github&logoColor=white" height="34" alt="Repositories" />](https://github.com/AmmarBinYasir489?tab=repositories)
 
 </div>
 
 ---
 
-## `06. ACTIVITY`
+<a id="toolkit"></a>
+
+## `06. TECH STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase,docker,git,github,vscode,ts,nextjs&theme=dark&perline=10" alt="Python, FastAPI, PostgreSQL, Supabase, Docker, Git, GitHub, VS Code, TypeScript and Next.js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=FF1738" alt="n8n" />
+<img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=FF1738" alt="Gemini" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=FF1738" alt="Ollama" />
+<img src="https://img.shields.io/badge/Qdrant-111111?style=for-the-badge&logo=qdrant&logoColor=FF1738" alt="Qdrant" />
+
+</div>
+
+---
+
+## `07. STATISTICS`
 
 <div align="center">
 
@@ -261,7 +252,7 @@ flowchart LR
 
 ---
 
-## `07. NOW`
+## `08. NOW`
 
 - Building task-focused agents that use tools and evidence
 - Designing n8n workflows for research and content operations
